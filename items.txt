@@ -1,8 +1,10 @@
-27;Extra Lean Ground Beef
-28;Regular Ground Beef
-173;Side Sliced Bacon
-236;Ground Turkey
-126;Roasting Chicken
-551;Medium Ground Beef
-552;Ground Chuck
-125;Split Wings
+1;One squared = ?
+4;Two squared = ?
+9;Three squared = ?
+16;Four squared = ?
+25;Five squared = ?
+36;Six squared = ?
+49;Seven squared = ?
+64;Eight squared = ?
+81;Nine squared = ?
+100;Ten squared = ?
