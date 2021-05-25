@@ -1,0 +1,8 @@
+27;Extra Lean Ground Beef
+28;Regular Ground Beef
+173;Side Sliced Bacon
+236;Ground Turkey
+126;Roasting Chicken
+551;Medium Ground Beef
+552;Ground Chuck
+125;Split Wings
