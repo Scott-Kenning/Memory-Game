@@ -53,3 +53,11 @@ Timed mode:
 The object of this game mode is to get as many questions right in one minute. The timer starts the second the game mode is
 chosen, and there is no penalty for right or wrong answers. At the end of the minute your score is presented, but there is
 currently no highscore system. 
+
+-------------------------------------------------------------------------------------------------------------------
+
+This program should be very easy to run. Once all the files are downloaded simply compile and run the program using the commands:
+javac MemoryGame.java
+java MemoryGame
+
+This is my first ever coding project, it is by no means efficient or well designed however for sentimental value I keep it on my page.
